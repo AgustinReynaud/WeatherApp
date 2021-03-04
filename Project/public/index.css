@@ -1,0 +1,10 @@
+.body{
+    
+    background-image: url("https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/12845%20%281%29.jpg?itok=LlF1h_ZD");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+}
+

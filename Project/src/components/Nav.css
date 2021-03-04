@@ -1,0 +1,11 @@
+#logoHenry {
+  margin-right: 20px;
+  cursor: pointer;
+}
+.div{
+  font-size: 15px;
+  display: flex;
+  cursor: pointer;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Satisfy', cursive;
+}

@@ -1,0 +1,35 @@
+/* #input-text:focus {
+        outline: none;
+        box-shadow: 0.2rem 0.8rem 1.6rem var(--colorPrimary600);
+      }
+
+#input-text {
+        display: block;
+        margin: 0;
+        padding: var(--inputPaddingV) var(--inputPaddingH);
+        color: inherit;
+        width: 100%;
+        font-family: inherit;
+        font-size: var(--inputFontSize);
+        font-weight: inherit;
+        line-height: var(--inputLineHeight);
+       
+        transition: box-shadow var(--transitionDuration);
+} */
+.input{
+    border: none;
+    border-radius: 0.4rem;
+    width: 280px;
+    margin-right: 15px;
+}
+.button{
+    background-color: rgb(163, 163, 163);
+    border-radius: 0.4rem;
+    width: 90px;
+}
+.button:hover {
+    background: rgba(7, 165, 228, 0);
+    color: rgba(0, 219, 248, 0);
+    box-shadow: inset 0 0 0 3px rgba(0, 201, 252, 0);
+    color: white;
+    }
