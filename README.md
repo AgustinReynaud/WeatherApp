@@ -5,3 +5,5 @@
 2) Esta App fue creada por Agustin Reynaud , estudiante de programacion fullstack . 
 
 3) Se uso Java Script con React y se consumen los datos del clima desde una api. 
+
+4) Para que funcione correctamente hay que agregar una Api Key
