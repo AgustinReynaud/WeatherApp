@@ -4,7 +4,7 @@ import './App.css';
 import Nav from '../components/Nav.jsx';
 import Cards from '../components/Cards.jsx';
 
-const apiKey = '0098efb8d5aa961b3adcc4ddcbffcdc8';
+const apiKey = '';
 
 function App() {
   const [cities, setCities] = useState([]);
