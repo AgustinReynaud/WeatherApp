@@ -7,3 +7,6 @@
 3) Se uso Java Script con React y se consumen los datos del clima desde una api. 
 
 4) Para que funcione correctamente hay que agregar una Api Key
+
+
+Esta app sirve para ver el clima actual de cada pais que busquemos !! 
