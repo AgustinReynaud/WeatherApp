@@ -10,3 +10,9 @@
 
 
 Esta app sirve para ver el clima actual de cada pais que busquemos !! 
+
+Imagenes:
+
+![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/w1.png)
+
+![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/w1.png)
