@@ -1,4 +1,4 @@
-************************* WEATHER APP ************************* 
+🌡 WEATHER APP 🌡
 
 1) Instalar " npm install " , una vez instalado correr el proyecto con " npm start " , todo desde la carpeta "Project" 
 
@@ -11,10 +11,10 @@
 
 Esta app sirve para ver el clima actual de cada pais que busquemos !! 
 
-Imagenes:
+📸 Imagenes:
 
 ![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/w1.png)
 
 ![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/w1.png)
 
-![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/w3.png)
+![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/w23.png)
